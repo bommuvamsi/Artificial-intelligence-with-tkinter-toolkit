@@ -45,4 +45,12 @@ g.addEdge(3, 3)
 print ("Following is Depth First Traversal")
 g.DFS()
 
+output :-
+	
+========================== RESTART: V:\DFS problem.py ==========================
+Following is Depth First Traversal
+0
+1
+2
+3
 
