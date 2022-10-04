@@ -97,6 +97,15 @@ while(1):
     num=int(input("Enter number of the color? "))
     print(solveCSP(provinces, num, R, 0))
 
+output :-
+    
+Python 3.10.7 (tags/v3.10.7:6cc6b13, Sep  5 2022, 14:08:36) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
 
+========================== RESTART: V:\map coloring.py =========================
+Enter number of the color? 3
+{'ab': 1, 'bc': 2, 'mb': 1, 'nb': 1, 'ns': 2, 'nl': 1, 'nt': 3, 'nu': 2, 'on': 2, 'pe': 3, 'qc': 3, 'sk': 2, 'yt': 1}
+Enter number of the color? 1
+False
 
 
