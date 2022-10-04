@@ -13,3 +13,10 @@ for x in inp :
     node3=relu(([node0,node1]*weights[3]).sum())
     op=relu(([node2,node3]*weights[4]).sum())
     print(x,op)
+    
+    
+output :-
+  
+[-1  2] 24
+[2 2] 72
+[3 3] 108
