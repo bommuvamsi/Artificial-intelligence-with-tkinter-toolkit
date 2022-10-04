@@ -28,3 +28,7 @@ treeDepth = math.log(len(scores), 2)
 print("The optimal value is : ", end = "")
 print(minimax(0, 0, True, scores, treeDepth))
 
+output :-
+	
+======================== RESTART: V:\minmax algorithm.py =======================
+The optimal value is : 12
