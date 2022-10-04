@@ -93,3 +93,7 @@ if isSolvable(arr, S):
 else:
 	print("No")
 	
+	
+output :-
+============================= RESTART: V:\cript.py =============================
+Yes
