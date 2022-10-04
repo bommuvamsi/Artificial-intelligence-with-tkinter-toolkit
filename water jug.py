@@ -28,3 +28,16 @@ def waterJugSolver(amt1, amt2):
 print("Steps: ")
 
 waterJugSolver(0, 0)
+
+
+output :-
+	=========================== RESTART: V:\water jug.py ===========================
+Steps: 
+0 0
+4 0
+4 3
+0 3
+3 0
+3 3
+4 2
+0 2
