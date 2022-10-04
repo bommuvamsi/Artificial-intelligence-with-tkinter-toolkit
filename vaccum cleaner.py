@@ -109,19 +109,21 @@ output :-
 Python 3.10.7 (tags/v3.10.7:6cc6b13, Sep  5 2022, 14:08:36) [MSC v.1933 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 
-============================ RESTART: V:\8-puzzle.py ===========================
-1  2  3  
-5  6  0  
-7  8  4  
+========================= RESTART: V:\vaccum cleaner.py ========================
+Enter Location of Vacuum cleaner A
+Enter status of A1
+Enter status of other room1
+Initial Location Condition{'A': '0', 'B': '0'}
+Vacuum is placed in Location A
+Location A is Dirty.
+Cost for CLEANING A 1
+Location A has been Cleaned.
+Location B is Dirty.
+Moving right to the Location B. 
+COST for moving RIGHT2
+COST for SUCK 3
+Location B has been Cleaned. 
+GOAL STATE: 
+{'A': '0', 'B': '0'}
+Performance Measurement: 3
 
-1  2  3  
-5  0  6  
-7  8  4  
-
-1  2  3  
-5  8  6  
-7  0  4  
-
-1  2  3  
-5  8  6  
-0  7  4  
