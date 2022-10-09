@@ -45,3 +45,21 @@ while True:
     
     else:
         print("Invalid Input")
+
+        
+        
+  output :-
+    Python 3.10.7 (tags/v3.10.7:6cc6b13, Sep  5 2022, 14:08:36) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+======================= RESTART: V:/simple calculator.py =======================
+Select operation.
+1.Add
+2.Subtract
+3.Multiply
+4.Divide
+Enter choice(1/2/3/4): 4
+Enter first number: 20
+Enter second number: 10
+20.0 / 10.0 = 2.0
+Let's do next calculation? (yes/no): no
