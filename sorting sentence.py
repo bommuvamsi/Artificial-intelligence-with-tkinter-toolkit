@@ -12,3 +12,9 @@ S = "the Quick brown fox jumPs over the lazY Dog"
 
 # function call
 Func(S)
+
+
+output :-
+	
+======================== RESTART: V:/sorting sentence.py =======================
+brown dog fox jumps lazy over quick the the
