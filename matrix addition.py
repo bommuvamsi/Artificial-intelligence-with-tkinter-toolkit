@@ -18,3 +18,10 @@ for i in range(len(X)):
 
 for r in result:
    print(r)
+
+output :-
+ 
+======================== RESTART: V:/matrix addition.py ========================
+[17, 15, 4]
+[10, 12, 9]
+[11, 13, 18]
