@@ -9,3 +9,9 @@ for char in my_str:
        no_punct = no_punct + char
 
 print(no_punct)
+
+
+output :-
+   
+===================== RESTART: V:/punctuations removing.py =====================
+Hello he said and went
